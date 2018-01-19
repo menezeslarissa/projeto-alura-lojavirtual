@@ -1,3 +1,3 @@
 # projeto-alura-lojavirtual
 
-Projeto de loja virtual usando hsqldb e Java
+Projeto do curso Alura sobre JAVA E JDBC, neste projeto foi usado o Hsqldb
